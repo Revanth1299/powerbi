@@ -1,2 +1,2 @@
-# powerbi
-Projects on Power BI
+# Powerbi
+Visualization of data of Adventure Works using PowerBI
